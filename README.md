@@ -1,4 +1,4 @@
-💡 Life Expectancy Analysis (Power BI)
+💡 Life Expectancy Analysis
 
 📌 Description  
 This project provides a comprehensive analysis of **global life expectancy trends** and the factors influencing them.  
