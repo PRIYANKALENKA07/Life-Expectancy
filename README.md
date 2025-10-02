@@ -74,6 +74,8 @@ With this dashboard, users can:
 - `life_expectancy_Project.pdf` → Exported static report  
 - `data/` → Raw & cleaned datasets (WHO, World Bank, Gapminder, etc.)  
 - `images/` → Dashboard screenshots for README preview
+- `life_expectancy_project_overview/` → small video to show the overall view of the dashboard
+
 
 ---
 
@@ -83,8 +85,8 @@ With this dashboard, users can:
 Data Analyst | Power BI | SQL | Python  
 
 - GitHub: [PRIYANKALENKA07](https://github.com/PRIYANKALENKA07)  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
-- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn Profile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/priyanka-lenka-26268a226/)  
+- Email: lenkpriyanka20007@gmail.com
 
 
 
