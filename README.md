@@ -70,10 +70,11 @@ With this dashboard, users can:
 
 📂 Repository Structure  
 
-- `life_expectancy_dashboard.pbix` → Power BI interactive dashboard  
+- `[life_expectancy_dashboard.pbix](https://github.com/PRIYANKALENKA07/Life-Expectancy/commit/7f083cd0810e86ff0f18ba6ffb0fa2b0980c1373)` → Power BI interactive dashboard  
 - `[life_expectancy_dashboard.pdf](https://github.com/PRIYANKALENKA07/Life-Expectancy/blob/main/life_expectency_project.pdf)` → Exported static report  
 - `[data/](https://github.com/PRIYANKALENKA07/Life-Expectancy/commit/e9290a15d0c55df234b90d2d4287dbd008f6a4d8#diff-ad3ee25d0de9ac7305ce33e225edd2e3261952d7749e6d2ba7db75865f3c3795)` → Raw & cleaned datasets (WHO, World Bank, Gapminder, etc.)  
-- `[images/](https://raw.githubusercontent.com/PRIYANKALENKA07/Life-Expectancy/12c39c702bf693278891a8757ae48bb31cee40f9/Image.png)` → Dashboard screenshots for README preview  
+- `![Dashboard Preview](https://github.com/PRIYANKALENKA07/Life-Expectancy/blob/main/Image.png?raw=true)
+` → Dashboard screenshots for README preview  
 
 ---
 
