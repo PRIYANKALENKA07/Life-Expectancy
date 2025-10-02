@@ -73,7 +73,7 @@ With this dashboard, users can:
 - `life_expectancy_dashboard.pbix` → Power BI interactive dashboard  
 - `life_expectancy_dashboard.pdf` → Exported static report  
 - `data/` → Raw & cleaned datasets (WHO, World Bank, Gapminder, etc.)  
-- `images/` → Dashboard screenshots for README preview  
+- `[images/](https://raw.githubusercontent.com/PRIYANKALENKA07/Life-Expectancy/12c39c702bf693278891a8757ae48bb31cee40f9/Image.png)` → Dashboard screenshots for README preview  
 
 ---
 
