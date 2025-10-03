@@ -74,7 +74,7 @@ With this dashboard, users can:
 - `life_expectancy_Project.pdf` → Exported static report  
 - `data/` → Raw & cleaned datasets (WHO, World Bank, Gapminder, etc.)  
 - `images/` → Dashboard screenshots for README preview
-- `life_expectancy_project_overview/` → small video to show the overall view of the dashboard
+- `Video/` → small video to show the overall view of the dashboard
 
 
 ---
